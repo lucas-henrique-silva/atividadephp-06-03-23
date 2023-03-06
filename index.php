@@ -5,11 +5,13 @@
         <div>
 
         <form action='contatoscontroller.php' method='POST'>
-            <p><input type='text' name='nome' placeholder="NOME"></p>
-            <p><input type='text' name='telefone' placeholder="TELEFONE"></p>
-            <p><input type='submit' value='cadastrar'></p>
+            <p><input type='text' name='nome' placeholder="Digite seu Nome..."></p>
+            <p><input type='text' name='telefone' placeholder="Digite seu telefone..."></p>
+            <p><input type='submit' name="botao" value='Cadastrar'></p>
+            <p><input type='text' name="id" placeholder="ID"></p>
+            <p><input type='submit' name="botao" value='Deletar'></p>
         </form>
-        
+
         </div>
     </body>
 </html>
