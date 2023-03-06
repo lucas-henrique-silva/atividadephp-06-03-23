@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div {
+    background-color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 17%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px rgb(82, 79, 79);
+}
+
+body {
+    background-image: url(https://images4.alphacoders.com/689/689588.jpg);
+    background-size: cover;
+    text-align: center;
+    margin-top: 20%;
+}
